@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohan4P
+- 👋 Hi, I’m @Rohan
 - 👀 I’m interested in software designing, embedded software designing, Debugging codes, automation, robotics
 - 🌱 I’m currently learning embedded systems development
 - 📫 How to reach me @ rohanpatel_12@yahoo.com 
