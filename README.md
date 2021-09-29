@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Rohan4P
-- 👀 I’m interested in learning new coding skills
+- 👀 I’m interested in software designing, embedded software designing, Debugging codes, automation, robotics
 - 🌱 I’m currently learning embedded systems development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @ rohanpatel_12@yahoo.com
+- 📫 How to reach me @ rohanpatel_12@yahoo.com 
 
 <!---
 Rohan4P/Rohan4P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
